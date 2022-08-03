@@ -1,0 +1,337 @@
+@media (min-width: 1900px) and (max-width:2700px) {
+.contato{
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 55vw;
+}
+
+.contato-content{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.barrinha3{
+    width: 86px;
+    height: 7px;
+    background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+    margin-top: -4.1vw;
+    margin-bottom: 4vw;   
+}
+
+.contato h5{
+    font-family: 'Blinker', sans-serif;
+    font-weight: 400;
+    font-size: 2.5VW;
+}
+
+.texto-esquerda{
+width: 400px;
+}
+
+.mapa{
+margin-top: 8%;
+margin-left: 20%;
+}
+
+.mapa iframe{
+    border-radius: 10px;
+    width: 40vw;
+    height: 30vw;
+}
+
+.quadro{
+width: 40vw;
+height: 30vw;
+background: linear-gradient(180deg, #157CFF 0%, #0A4492 100%);
+border-radius: 10px;
+z-index: 1;
+margin-top: -29.5vw;
+margin-left: 0.5vw;
+}
+}
+
+@media (min-width: 1600px) and (max-width:1900px) {
+    .contato{
+        background-color: #fff;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100vw;
+        height: 55vw;
+    }
+    
+    .contato-content{
+        display: flex;
+        flex-wrap: wrap-reverse;
+        margin-left: 15%;
+        margin-top: 10%;
+    }
+    
+    .barrinha3{
+        width: 86px;
+        height: 7px;
+        background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+        margin-top: -4.1vw;
+        margin-bottom: 4vw;   
+    }
+    
+    .contato h5{
+        font-family: 'Blinker', sans-serif;
+        font-weight: 400;
+        font-size: 2.5VW;
+    }
+    
+    .texto-esquerda{
+    width: 400px;
+    }
+    
+    .mapa{
+    margin-top: 8%;
+    margin-left: 17%;
+    }
+    
+    .mapa iframe{
+        border-radius: 10px;
+        width: 40vw;
+        height: 30vw;
+    }
+    
+    .quadro{
+    width: 40vw;
+    height: 30vw;
+    background: linear-gradient(180deg, #157CFF 0%, #0A4492 100%);
+    border-radius: 10px;
+    z-index: 1;
+    margin-top: -29.5vw;
+    margin-left: 0.5vw;
+    }
+    }
+
+    @media (min-width: 1300px) and (max-width:1600px) {
+        .contato{
+            background-color: #fff;
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100vw;
+            height: 55vw;
+        }
+        
+        .contato-content{
+            display: flex;
+            flex-wrap: wrap-reverse;
+            margin-left: 15%;
+            margin-top: 10%;
+        }
+        
+        .barrinha3{
+            width: 86px;
+            height: 7px;
+            background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+            margin-top: -4.1vw;
+            margin-bottom: 4vw;   
+        }
+        
+        .contato h5{
+            font-family: 'Blinker', sans-serif;
+            font-weight: 400;
+            font-size: 2.5VW;
+        }
+        
+        .texto-esquerda{
+        width: 400px;
+        }
+        
+        .mapa{
+        margin-top: 8%;
+        margin-left: 20%;
+        }
+        
+        .mapa iframe{
+            border-radius: 10px;
+            width: 40vw;
+            height: 30vw;
+        }
+        
+        .quadro{
+        width: 40vw;
+        height: 30vw;
+        background: linear-gradient(180deg, #157CFF 0%, #0A4492 100%);
+        border-radius: 10px;
+        z-index: 1;
+        margin-top: -29.5vw;
+        margin-left: 0.5vw;
+        }
+        }
+
+        @media (min-width: 1000px) and (max-width:1300px) {
+            .contato{
+                background-color: #fff;
+                background-repeat: no-repeat;
+                background-size: cover;
+                width: 100vw;
+                height: 55vw;
+            }
+            
+            .contato-content{
+                display: flex;
+                flex-wrap: wrap-reverse;
+                margin-left: 15%;
+                margin-top: 10%;
+                margin-bottom: 10%;
+            }
+            
+            .barrinha3{
+                width: 86px;
+                height: 7px;
+                background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                margin-top: -4.1vw;
+                margin-bottom: 4vw;   
+            }
+            
+            .contato h5{
+                font-family: 'Blinker', sans-serif;
+                font-weight: 400;
+                font-size: 2.5VW;
+            }
+            
+            .texto-esquerda{
+            width: 400px;
+            }
+            
+            .mapa{
+            margin-top: 8%;
+            margin-left: 20%;
+            }
+            
+            .mapa iframe{
+                border-radius: 10px;
+                width: 40vw;
+                height: 30vw;
+            }
+            
+            .quadro{
+            width: 40vw;
+            height: 30vw;
+            background: linear-gradient(180deg, #157CFF 0%, #0A4492 100%);
+            border-radius: 10px;
+            z-index: 1;
+            margin-top: -29.5vw;
+            margin-left: 0.5vw;
+            }
+            }
+
+            @media (min-width: 700px) and (max-width:1000px) {
+                .contato{
+                    background-color: #fff;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    width: 100vw;
+                    height: 55vw;
+                }
+                
+                .contato-content{
+                    display: flex;
+                    flex-wrap: wrap-reverse;
+                    margin-left: 15%;
+                    margin-top: 10%;
+                }
+                
+                .barrinha3{
+                    width: 86px;
+                    height: 7px;
+                    background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                    margin-top: -6.1vw;
+                    margin-bottom: 4vw;   
+                }
+                
+                .contato h5{
+                    font-family: 'Blinker', sans-serif;
+                    font-weight: 400;
+                    font-size: 4VW;
+                }
+                
+                .texto-esquerda{
+                width: 400px;
+                }
+                
+                .mapa{
+                margin-top: 8%;
+                margin-left: 20%;
+                }
+                
+                .mapa iframe{
+                    border-radius: 10px;
+                    width: 40vw;
+                    height: 30vw;
+                }
+                
+                .quadro{
+                width: 40vw;
+                height: 30vw;
+                background: linear-gradient(180deg, #157CFF 0%, #0A4492 100%);
+                border-radius: 10px;
+                z-index: 1;
+                margin-top: -29.5vw;
+                margin-left: 0.5vw;
+                }
+                }
+
+                @media (min-width: 200px) and (max-width:700px) {
+                    .contato{
+                        background-color: #fff;
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                        width: 100vw;
+                        height: 55vw;
+                    }
+                    
+                    .contato-content{
+                        display: flex;
+                        flex-wrap: wrap-reverse;
+                        margin-left: 15%;
+                        margin-top: 10%;
+                    }
+                    
+                    .barrinha3{
+                        width: 86px;
+                        height: 7px;
+                        background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                        margin-top: -12.1vw;
+                        margin-bottom: 4vw;   
+                    }
+                    
+                    .contato h5{
+                        font-family: 'Blinker', sans-serif;
+                        font-weight: 400;
+                        font-size: 5VW;
+                        margin-bottom: 40%;
+                    }
+                    
+                    .texto-esquerda{
+                    width: 200px;
+                    }
+                    
+                    .mapa{
+                    margin-top: 8%;
+                    margin-left: 10%;
+                    }
+                    
+                    .mapa iframe{
+                        border-radius: 10px;
+                        width: 50vw;
+                        height: 50vw;
+                    }
+                    
+                    .quadro{
+                    width: 51vw;
+                    height: 51vw;
+                    background: linear-gradient(180deg, #157CFF 0%, #0A4492 100%);
+                    border-radius: 10px;
+                    z-index: 1;
+                    margin-top: -50.5vw;
+                    margin-left: 0.5vw;
+                    }
+                    }

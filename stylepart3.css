@@ -1,0 +1,432 @@
+@media (min-width: 1900px) and (max-width:2700px) {
+.somos{
+    background-color: #FED230;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 50vw;
+}
+
+.somos-content{
+    display: flex;
+    margin-left: 5%;
+    flex-wrap: wrap;
+    margin-top: 15%;
+}
+
+.texto_direita{
+    width: 500px;
+}
+
+.image{
+margin-left: 10%;
+margin-top: 10%;
+}
+
+h5{
+    font-family: 'Blinker', sans-serif;
+    font-weight: 400;
+    font-size: 2.5VW;
+}
+
+.texto_direita{
+    margin-left: 10%;
+    margin-top: 06%;
+}
+
+.barrinha2{
+    width: 86px;
+    height: 7px;
+    background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+    margin-top: -4.1vw;
+    margin-bottom: 4vw;   
+}
+}
+
+@media (min-width: 1648px) and (max-width:1900px) {
+    .somos{
+        background-color: #FED230;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100vw;
+        height: 50vw;
+    }
+    
+    .somos-content{
+        display: flex;
+        margin-left: 5%;
+        flex-wrap: wrap;
+        margin-top: 12%;
+    }
+    
+    .texto_direita{
+        width: 500px;
+        margin-bottom: 10%;
+    }
+    
+    .image{
+    margin-left: 10%;
+    margin-top: 10%;
+    }
+    
+    h5{
+        font-family: 'Blinker', sans-serif;
+        font-weight: 400;
+        font-size: 2.5VW;
+    }
+    
+    .texto_direita{
+        margin-left: 10%;
+        margin-top: 06%;
+    }
+    
+    .barrinha2{
+        width: 86px;
+        height: 7px;
+        background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+        margin-top: -4.1vw;
+        margin-bottom: 4vw;   
+    }
+    }
+
+    @media (min-width: 1300px) and (max-width:1648px) {
+        .somos{
+            background-color: #FED230;
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100vw;
+            height: 85vw;
+        }
+        
+        .somos-content{
+            display: flex;
+            margin-left: 5%;
+            flex-wrap: wrap;
+            margin-top: 20%;
+        }
+        
+        .texto_direita{
+            width: 500px;
+        }
+        
+        .image{
+        margin-left: 10%;
+        margin-top: 10%;
+        }
+        
+        h5{
+            font-family: 'Blinker', sans-serif;
+            font-weight: 400;
+            font-size: 2.5VW;
+        }
+        
+        .texto_direita{
+            margin-left: 10%;
+            margin-top: 06%;
+            margin-bottom: 10%;
+        }
+        
+        .barrinha2{
+            width: 86px;
+            height: 7px;
+            background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+            margin-top: -4.1vw;
+            margin-bottom: 4vw;   
+        }
+        }
+
+        @media (min-width: 1000px) and (max-width:1300px) {
+            .somos{
+                background-color: #FED230;
+                background-repeat: no-repeat;
+                background-size: cover;
+                width: 100vw;
+                height: 100vw;
+            }
+            
+            .somos-content{
+                display: flex;
+                margin-left: 5%;
+                flex-wrap: wrap;
+                margin-top: 20%;
+            }
+            
+            .texto_direita{
+                width: 500px;
+                margin-bottom: 10%;
+            }
+            
+            .image{
+            margin-left: 10%;
+            margin-top: 10%;
+            }
+            
+            h5{
+                font-family: 'Blinker', sans-serif;
+                font-weight: 400;
+                font-size: 2.5VW;
+            }
+            
+            .texto_direita{
+                margin-left: 10%;
+                margin-top: 06%;
+            }
+            
+            .barrinha2{
+                width: 86px;
+                height: 7px;
+                background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                margin-top: -4.1vw;
+                margin-bottom: 4vw;   
+            }
+            }
+
+            @media (min-width: 700px) and (max-width:1000px) {
+                .somos{
+                    background-color: #FED230;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    width: 100vw;
+                    height: 100vw;
+                }
+
+                img.pessoas{
+                    width: 50vw;
+                }
+                
+                .somos-content{
+                    display: flex;
+                    margin-left: 5%;
+                    flex-wrap: wrap;
+                    margin-top: 10%;
+                }
+                
+                .texto_direita{
+                    width: 500px;
+                }
+                
+                .image{
+                margin-left: 10%;
+                margin-top: 10%;
+                }
+                
+                
+                h5{
+                    font-family: 'Blinker', sans-serif;
+                    font-weight: 400;
+                    font-size: 2.5VW;
+                }
+                
+                .texto_direita{
+                    margin-left: 10%;
+                    margin-top: 06%;
+                }
+                
+                .barrinha2{
+                    width: 86px;
+                    height: 7px;
+                    background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                    margin-top: -4.1vw;
+                    margin-bottom: 4vw;   
+                }
+                }
+
+                @media (min-width: 658px) and (max-width:750px) {
+                    .somos{
+                        background-color: #FED230;
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                        width: 100vw;
+                        height: 800px;
+                    }
+
+                    img.pessoas{
+                        width: 70vw;
+                    }
+                    
+                    .somos-content{
+                        display: flex;
+                        margin-left: 5%;
+                        flex-wrap: wrap;
+                        margin-top: 70%;
+                    }
+                    
+                    .texto_direita{
+                        width: 500px;
+                    }
+                    
+                    .image{
+                    margin-left: 10%;
+                    margin-top: 10%;
+                    }
+                    
+                    h5{
+                        font-family: 'Blinker', sans-serif;
+                        font-weight: 400;
+                        font-size: 5VW;
+                        margin-bottom: 15%;
+                    }
+                    
+                    .texto_direita{
+                        margin-left: 10%;
+                        margin-top: 06%;
+                    }
+                    
+                    .barrinha2{
+                        width: 86px;
+                        height: 7px;
+                        background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                        margin-top: -10.1vw;
+                        margin-bottom: 4vw;   
+                    }
+                    }
+
+                    @media (min-width: 563px) and (max-width:658px) {
+                        .somos{
+                            background-color: #FED230;
+                            background-repeat: no-repeat;
+                            background-size: cover;
+                            width: 100vw;
+                            height: 800px;
+                        }
+    
+                        img.pessoas{
+                            width: 70vw;
+                        }
+                        
+                        .somos-content{
+                            display: flex;
+                            margin-left: 5%;
+                            flex-wrap: wrap;
+                            margin-top: 1100px;
+                        }
+                        
+                        .texto_direita{
+                            width: 500px;
+                        }
+                        
+                        .image{
+                        margin-left: 10%;
+                        margin-top: 10%;
+                        }
+                        
+                        h5{
+                            font-family: 'Blinker', sans-serif;
+                            font-weight: 400;
+                            font-size: 5VW;
+                            margin-bottom: 15%;
+                        }
+                        
+                        .texto_direita{
+                            margin-left: 8%;
+                            margin-top: 06%;
+                        }
+                        
+                        .barrinha2{
+                            width: 86px;
+                            height: 7px;
+                            background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                            margin-top: -11.1vw;
+                            margin-bottom: 4vw;   
+                        }
+                        }
+
+                        @media (min-width: 419px) and (max-width:563px) {
+                            .somos{
+                                background-color: #FED230;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                width: 100vw;
+                                height: 800px;
+                            }
+        
+                            img.pessoas{
+                                width: 70vw;
+                            }
+                            
+                            .somos-content{
+                                display: flex;
+                                margin-left: 5%;
+                                flex-wrap: wrap;
+                                margin-top: 900px;
+                            }
+                            
+                            .texto_direita{
+                                width: 500px;
+                            }
+                            
+                            .image{
+                            margin-left: 10%;
+                            margin-top: 10%;
+                            }
+                            
+                            h5{
+                                font-family: 'Blinker', sans-serif;
+                                font-weight: 400;
+                                font-size: 5VW;
+                                margin-bottom: 15%;
+                            }
+                            
+                            .texto_direita{
+                                margin-left: 8%;
+                                margin-top: 06%;
+                            }
+                            
+                            .barrinha2{
+                                width: 86px;
+                                height: 7px;
+                                background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                                margin-top: -11.1vw;
+                                margin-bottom: 4vw;   
+                            }
+                            }
+
+                        @media (min-width: 200px) and (max-width:419px) {
+                            .somos{
+                                background-color: #FED230;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                width: 100vw;
+                                height: 500px;
+                            }
+        
+                            img.pessoas{
+                                width: 70vw;
+                            }
+                            
+                            .somos-content{
+                                display: flex;
+                                margin-left: 5%;
+                                flex-wrap: wrap;
+                                margin-top: 800px;
+                            }
+                            
+                            .texto_direita{
+                                width: 500px;
+                            }
+                            
+                            .image{
+                            margin-left: 8%;
+                            margin-top: 10%;
+                            }
+                            
+                            h5{
+                                font-family: 'Blinker', sans-serif;
+                                font-weight: 400;
+                                font-size: 5VW;
+                                margin-bottom: 15%;
+                            }
+                            
+                            .texto_direita{
+                                margin-left: 8%;
+                                margin-top: 06%;
+                            }
+                            
+                            .barrinha2{
+                                width: 86px;
+                                height: 7px;
+                                background: linear-gradient(90deg, #157CFF 0%, #0A4492 100%);
+                                margin-top: -11.1vw;
+                                margin-bottom: 4vw;   
+                            }
+                            }

@@ -1,0 +1,365 @@
+@media (min-width: 1900px) and (max-width:2700px) {
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .texto{
+        padding-top: 47vh;
+        padding-left: 7.5vw;
+    }
+    
+    .redes{
+        margin-top: -1vw;
+    }
+    
+    
+    h1{
+    padding-bottom: -7vw;
+    font-size: 3vw;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    h2{
+    font-size: 6vw;
+    font-family: coolvetica,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+    margin-top: -6.5vw;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    button{
+        background: linear-gradient(90.26deg, #157CFF 1.57%, #0A4492 99.78%);
+        border-radius: 5px;
+        width: 10VW;
+        height: 3VW;
+    }
+
+    P{
+        color: white;
+        font-family: 'Blinker', sans-serif;
+        font-weight: 400;
+        font-size: 0.9VW;
+    }
+
+    
+    
+    .principal{
+        background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659451392/capa_zshly0.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100vw;
+        height: 100vh;
+    }
+    }
+
+@media (min-width: 1600px) and (max-width:1900px) {
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.texto{
+    padding-top: 45vh;
+    padding-left: 7.5vw;
+}
+
+.redes{
+    margin-top: -1.8vw;
+}
+
+
+h1{
+    padding-bottom: -3vw;
+    font-size: 3vw;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    h2{
+    font-size: 6vw;
+    font-family: coolvetica,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+    margin-top: -6.5vw;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    button{
+        background: linear-gradient(90.26deg, #157CFF 1.57%, #0A4492 99.78%);
+        border-radius: 5px;
+        width: 10VW;
+        height: 3VW;
+    }
+
+    P{
+        color: white;
+        font-family: 'Blinker', sans-serif;
+        font-weight: 400;
+        font-size: 0.9VW;
+    }
+
+
+.principal{
+    background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659451392/capa_zshly0.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+}
+
+@media (min-width: 1300px) and (max-width:1600px) {
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .texto{
+        padding-top: 41vh;
+        padding-left: 7.5vw;
+    }
+    
+    .redes{
+        margin-top: -2.0vw;
+    }
+    
+    
+    h1{
+        padding-bottom: -3vw;
+        font-size: 3vw;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        color: black;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        }
+        
+        h2{
+        font-size: 6vw;
+        font-family: coolvetica,sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        color: white;
+        margin-top: -6.5vw;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        }
+        
+        button{
+            background: linear-gradient(90.26deg, #157CFF 1.57%, #0A4492 99.78%);
+            border-radius: 5px;
+            width: 10VW;
+            height: 3VW;
+        }
+    
+        P{
+            color: white;
+            font-family: 'Blinker', sans-serif;
+            font-weight: 400;
+            font-size: 0.9VW;
+        }
+    
+    
+    .principal{
+        background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659451392/capa_zshly0.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100vw;
+        height: 100vh;
+    }
+    }
+
+    @media (min-width: 1000px) and (max-width:1300px) {
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        
+        .texto{
+            padding-top: 41vh;
+            padding-left: 7.5vw;
+        }
+        
+        .redes{
+            margin-top: -2.0vw;
+        }
+        
+        
+        h1{
+            padding-bottom: -3vw;
+            font-size: 3vw;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 300;
+            font-style: normal;
+            color: black;
+            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            }
+            
+            h2{
+            font-size: 6vw;
+            font-family: coolvetica,sans-serif;
+            font-weight: 300;
+            font-style: normal;
+            color: white;
+            margin-top: -6.5vw;
+            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            }
+            
+            button{
+                background: linear-gradient(90.26deg, #157CFF 1.57%, #0A4492 99.78%);
+                border-radius: 5px;
+                width: 15VW;
+                height: 5VW;
+            }
+        
+            P{
+                color: white;
+                font-family: 'Blinker', sans-serif;
+                font-weight: 400;
+                font-size: 1.5VW;
+            }
+        
+
+        
+        .principal{
+            background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659454729/capa-MINI_solzjd.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100vw;
+            height: 100vh;
+        }
+        }
+
+        @media (min-width: 700px) and (max-width:1000px){
+            body{
+                margin: 0;
+                padding: 0;
+            }
+            
+            .texto{
+                padding-top: 41vh;
+                padding-left: 7.5vw;
+            }
+            
+            .redes{
+                margin-top: -2.0vw;
+            }
+            
+            
+            h1{
+                padding-bottom: -3vw;
+                font-size: 4vw;
+                font-family: 'Montserrat', sans-serif;
+                font-weight: 300;
+                font-style: normal;
+                color: black;
+                text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                }
+                
+                h2{
+                font-size: 6vw;
+                font-family: coolvetica,sans-serif;
+                font-weight: 300;
+                font-style: normal;
+                color: white;
+                margin-top: -6.5vw;
+                text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                }
+                
+                button{
+                    background: linear-gradient(90.26deg, #157CFF 1.57%, #0A4492 99.78%);
+                    border-radius: 5px;
+                    width: 15VW;
+                    height: 5VW;
+                }
+            
+                P{
+                    color: white;
+                    font-family: 'Blinker', sans-serif;
+                    font-weight: 400;
+                    font-size: 1.5VW;
+                }
+            
+        
+            
+            .principal{
+                background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659454729/capa-MINI_solzjd.png");
+                background-repeat: no-repeat;
+                background-size: cover;
+                width: 100vw;
+                height: 100vh;
+            }
+            }
+
+            @media (min-width: 200px) and (max-width:700px){
+                body{
+                    margin: 0;
+                    padding: 0;
+                }
+                
+                .texto{
+                    padding-top: 41vh;
+                    padding-left: 7.5vw;
+                }
+                
+                .redes{
+                    margin-top: -2.0vw;
+                }
+                
+                
+                h1{
+                    padding-bottom: -3vw;
+                    font-size: 4vw;
+                    font-family: 'Montserrat', sans-serif;
+                    font-weight: 300;
+                    font-style: normal;
+                    color: black;
+                    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                    }
+                    
+                    h2{
+                    font-size: 6vw;
+                    font-family: coolvetica,sans-serif;
+                    font-weight: 300;
+                    font-style: normal;
+                    color: white;
+                    margin-top: -6.5vw;
+                    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                    }
+                    
+                    button{
+                        background: linear-gradient(90.26deg, #157CFF 1.57%, #0A4492 99.78%);
+                        border-radius: 5px;
+                        width: 18VW;
+                        height: 7VW;
+                    }
+                
+                    P{
+                        color: white;
+                        font-family: 'Blinker', sans-serif;
+                        font-weight: 400;
+                        font-size: 2VW;
+                    }
+                
+                
+                
+                .principal{
+                    background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659459298/capa-bem-mini_sve0se.png");
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    width: 100vw;
+                    height: 80vh;
+                }
+                }
+
+                
