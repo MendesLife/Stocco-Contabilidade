@@ -54,7 +54,7 @@
         background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659451392/capa_zshly0.png");
         background-repeat: no-repeat;
         background-size: cover;
-        width: 100vw;
+        width: 100%;
         height: 100vh;
     }
     }
@@ -114,7 +114,7 @@ h1{
     background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659451392/capa_zshly0.png");
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
 }
 }
@@ -174,7 +174,7 @@ h1{
         background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659451392/capa_zshly0.png");
         background-repeat: no-repeat;
         background-size: cover;
-        width: 100vw;
+        width: 100%;
         height: 100vh;
     }
     }
@@ -235,7 +235,7 @@ h1{
             background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659454729/capa-MINI_solzjd.png");
             background-repeat: no-repeat;
             background-size: cover;
-            width: 100vw;
+            width: 100%;
             height: 100vh;
         }
         }
@@ -296,7 +296,7 @@ h1{
                 background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659454729/capa-MINI_solzjd.png");
                 background-repeat: no-repeat;
                 background-size: cover;
-                width: 100vw;
+                width: 100%;
                 height: 100vh;
             }
             }
@@ -357,7 +357,7 @@ h1{
                     background-image: url("https://res.cloudinary.com/sitesvyoung/image/upload/v1659459298/capa-bem-mini_sve0se.png");
                     background-repeat: no-repeat;
                     background-size: cover;
-                    width: 100vw;
+                    width: 100%;
                     height: 80vh;
                 }
                 }

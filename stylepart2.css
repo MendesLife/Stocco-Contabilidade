@@ -3,7 +3,7 @@
     background-color: #fff;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100vw;
+    width: 100%;
     height: 50vw;
 }
 
@@ -54,7 +54,7 @@ span{
         background-color: #fff;
         background-repeat: no-repeat;
         background-size: cover;
-        width: 100vw;
+        width: 100%;
         height: 65vw;
     }
     
@@ -105,7 +105,7 @@ span{
             background-color: #fff;
             background-repeat: no-repeat;
             background-size: cover;
-            width: 100vw;
+            width: 100%;
             height: 65vw;
         }
         
@@ -156,7 +156,7 @@ span{
                 background-color: #fff;
                 background-repeat: no-repeat;
                 background-size: cover;
-                width: 100vw;
+                width: 100%;
                 height: 65vw;
             }
             
@@ -208,7 +208,7 @@ span{
                     background-color: #fff;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    width: 100vw;
+                    width: 100%;
                     height: 100vw;
                 }
                 
@@ -259,7 +259,7 @@ span{
                         background-color: #fff;
                         background-repeat: no-repeat;
                         background-size: cover;
-                        width: 100vw;
+                        width: 100%;
                         height: 100vw;
                     }
                     
